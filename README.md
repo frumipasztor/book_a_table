@@ -1,4 +1,2 @@
-# booktable
-
 ## deployed version here: 
-  https://lapiccolaitalia.netlify.app/
+  https://lapiccolaitaliabeta.netlify.app
